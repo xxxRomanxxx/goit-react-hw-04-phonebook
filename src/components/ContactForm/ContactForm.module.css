@@ -1,0 +1,29 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.form__label {
+    display: flex;
+    justify-content: space-between;
+    font-size: 24px;
+    color: white;
+}
+
+.form__input {
+    display: flex;
+    font-size:30px
+}
+
+.form__button {
+    display: flex;
+    width: 200px;
+    justify-content: center;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    color: white;
+    font-size: 24px;
+}

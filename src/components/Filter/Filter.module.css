@@ -1,0 +1,11 @@
+.filter {
+    display: flex;
+    justify-content: space-between;
+    font-size: 24px;
+    color: white;
+}
+
+.filter__input {
+    display: flex;
+    font-size:30px
+}

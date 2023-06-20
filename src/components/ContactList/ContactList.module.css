@@ -1,0 +1,25 @@
+.contact__list {
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    gap: 10px;
+}
+
+.contact__item {
+    display: flex;
+    align-items: center;
+    font-size: 24px;
+    gap: 10px;
+}
+
+.contact__button {
+        display: flex;
+        width: 200px;
+        justify-content: center;
+        padding: 10px;
+        margin-left: 20px;
+        background-color: black;
+        color: white;
+        font-size: 24px;
+}
+
